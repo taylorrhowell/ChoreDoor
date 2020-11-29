@@ -8,7 +8,7 @@ const botDoorPath = 'https://s3.amazonaws.com/codecademy-content/projects/chore-
 const beachDoorPath = 'https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/beach.svg';
 //Image of space
 const spaceDoorPath = 'https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/space.svg';
-//Image of the cloed door
+//Image of the closed door
 const closedDoorPath = 'https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/closed_door.svg'
 //Global variables needed for the random door generator
 let numClosedDoors = 3;
@@ -70,7 +70,7 @@ doorImage1.onclick = () => {
     playDoor(doorImage1);
   };
 };
-//functionss that 'open' the doors with other images besides the Chore Bot
+//functions that 'open' the doors with other images besides the Chore Bot
 doorImage2.onclick = () => {
   if (currentlyPlaying && !isClicked(doorImage2)) { 
     doorImage2.src = openDoor2;
