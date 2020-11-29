@@ -1,7 +1,7 @@
 # Chore Door
 > Chore Door is a dynamic website designed with HTML5, CSS3, and JavaScript. It was done using an outline from [Codecademy](https://www.codecademy.com). The website renders a single-page door-guessing game where the objective is to avoid selecting the random door that the Chore Bot is hiding behind.
 
-## Table of contents
+## Table of Contents
 * [General Info](#general-info)
 * [Screenshot and Instructions](#screenshot-and-instructions)
 * [Technologies](#technologies)
