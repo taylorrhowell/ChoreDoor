@@ -10,7 +10,7 @@
 * [Status](#status)
 
 ## General Info
-The door the Chore Bot is behind is randomized every round, so be careful! This is accomplished by randomizing the images "behind" the doors. The images are provided by [Codecademy.com].
+The door the Chore Bot is behind is randomized every round, so be careful! This is accomplished by randomizing the images "behind" the doors. The images are provided by [Codecademy](https://www.codecademy.com).
 
 ## Screenshot and Instructions
 ![Game start and instructions](./resources/Screenshot.png)
